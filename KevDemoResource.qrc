@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/user1.jpg</file>
+        <file>img/user4.jpg</file>
+        <file>img/user2.png</file>
+        <file>img/user3.jpg</file>
+        <file>txt/temp.txt</file>
+        <file>img/down.png</file>
+        <file>img/down-arrow.png</file>
+        <file>img/up.png</file>
+        <file>img/up-arrow.png</file>
+    </qresource>
+</RCC>
